@@ -12,6 +12,6 @@
         </form>
         <a href="register.php">Register a new login</a>
         <p>
-        <a href="games.php">UNA NCAA Championship Season</a>
+            <a href="games.php">UNA NCAA Championship Season</a>
     </body>
 </html>
